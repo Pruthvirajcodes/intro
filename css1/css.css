@@ -1,0 +1,166 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  color: #3B9F96;
+}
+
+h3 {
+  color: #3B9F96;
+  font-size: 35px;
+}
+
+h4 {
+  color:#41B0A6;
+  font-size: 26px;
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 21px;
+}
+
+hr{
+  border-style: dotted none none none;
+  width: 5%;
+  border-width: 8px;
+  border-color: #EAF6F6;
+  margin: 50px auto;
+}
+
+.intro {
+  width: 40%;
+  margin: auto;
+}
+
+.main_div {
+  background-color: #e0ebe8;
+}
+
+.name_tag {
+  margin-top: 0;
+  padding-top: 180px;
+  font-family: 'Parisienne', cursive;
+  font-size: 5.625rem;
+  margin-bottom: 0;
+}
+
+.name2_tag {
+  margin-top: 10px;
+}
+
+.cloud1 {
+  position: absolute;
+  bottom: 500px;
+  height: 40px;
+}
+
+.cloud2 {
+  position: absolute;
+  top: 140px;
+  right: 310px;
+  height: 45px;
+}
+
+.mountain {
+  position: relative;
+  top: 4px;
+  margin-top: 80px;
+}
+
+.skill_set {
+  margin-bottom: 70px;
+}
+
+.logo {
+  margin-top: 90px;
+  height: 150px;
+}
+
+.coding_img {
+  float: left;
+  height: 160px;
+  margin-right: 35px;
+}
+
+.skilli {
+  height: 160px;
+  float: right;
+  margin-left: 35px;
+}
+
+.skilliv {
+  width: 60%;
+  margin: auto;
+}
+
+.codiv {
+  width: 60%;
+  margin: auto;
+}
+
+.skilled {
+  width: 60%;
+  margin: auto;
+}
+
+.chess {
+  height: 160px;
+  float: left;
+  margin-right: 35px;
+}
+
+.dream {
+  width:60%;
+  margin: auto;
+}
+
+.touch {
+  width: 60%;
+  margin: auto;
+}
+
+.suu {
+ height: 60px;
+ margin: 60px auto;
+
+}
+
+.contact {
+  background-color: #c5ded7;
+  width: 100%;
+  padding-top: 40px;
+}
+
+.gg {
+  color: #45b29a;
+  text-decoration: none;
+
+}
+
+.gg:hover {
+  text-decoration: underline;
+  font-size: 1.1875rem;
+}
+
+.dg {
+  word-spacing: 70px;
+    margin-bottom: 60px;
+    font-size: 1.125rem;
+}
+
+.dd {
+  font-size: 12px;
+  line-height: 0.75;
+  margin: 5px auto;
+}
+
+.dev {
+  padding-bottom: 10px;
+}
+
+.hell {
+  margin-bottom: 40px;
+}
